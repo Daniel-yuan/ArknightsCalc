@@ -748,80 +748,24 @@ ArknightsCalc_autogen/timestamp: /Library/Developer/CommandLineTools/SDKs/MacOSX
   /Users/xgzc/ArknightsCalc/utils.cpp \
   /Users/xgzc/ArknightsCalc/utils.h \
   /opt/homebrew/Cellar/cmake/4.0.3/bin/cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCXXCompiler.cmake.in \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCXXInformation.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCommonLanguageInclude.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCompilerIdDetection.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompilerABI.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompilerId.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineSystem.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeFindBinUtils.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeFindDependencyMacro.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeGenericSystem.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeInitializeConfigs.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeLanguageInformation.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeParseArguments.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeSystem.cmake.in \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeSystemSpecificInformation.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeTestCXXCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeTestCompilerCommon.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeUnixFindMake.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckCXXCompilerFlag.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckCXXSourceCompiles.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckIncludeFileCXX.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckLibraryExists.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/AppleClang-CXX.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Clang.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/GNU.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindOpenGL.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindPackageMessage.cmake \
@@ -830,19 +774,15 @@ ArknightsCalc_autogen/timestamp: /Library/Developer/CommandLineTools/SDKs/MacOSX
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/GNUInstallDirs.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckCompilerFlag.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckSourceCompiles.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/FeatureTesting.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Linker/AppleClang-CXX.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Linker/AppleClang.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/MacroAddFileDependencies.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-Clang.cmake \
-  /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin-Determine-CXX.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin-Initialize.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin.cmake \
   /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake \
@@ -6012,6 +5952,8 @@ ArknightsCalc_autogen/include/ui_mainwindow.h:
 
 /opt/homebrew/include/QtGui/qfont.h:
 
+/opt/homebrew/include/QtGui/qcursor.h:
+
 /opt/homebrew/include/QtGui/qcolor.h:
 
 /opt/homebrew/include/QtGui/qbrush.h:
@@ -6281,6 +6223,8 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc/_ptrcheck.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc/_malloc_type.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/machine/types.h:
 
@@ -6632,6 +6576,8 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__split_buffer:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/view_interface.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/subrange.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/size.h:
@@ -6708,23 +6654,15 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/compressed_pair.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/auto_ptr.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_reduce.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
-
 /opt/homebrew/include/QtCore/qstringliteral.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_destructor.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocation_guard.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocate_at_least.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/perfect_forward.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__mbstate_t.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/align.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_cvref.h:
 
@@ -6732,47 +6670,37 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/special_functions.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__system_error/system_error.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/functional:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/roots.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/remainder.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/modulo.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/min_max.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_trivially_lexicographically_comparable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/inverse_trigonometric_functions.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/inverse_hyperbolic_functions.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hypot.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hyperbolic_functions.h:
-
 /opt/homebrew/include/QtGui/qguiapplication_platform.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/gamma.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/copysign.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/abs.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/fdim.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/exponential_functions.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h:
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/size.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__system_error/error_code.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/readable_traits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ranges_iterator_traits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/projected.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/wrap_iter.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/errno.h:
 
@@ -6780,27 +6708,31 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostreambuf_iterator.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/sample.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/next.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_sentinel.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/string.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_move.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/istream_iterator.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/insert_iterator.h:
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_element.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/empty.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets-release.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/distance.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/concepts.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/back_insert_iterator.h:
 
@@ -6855,8 +6787,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/concepts.h:
 
 /opt/homebrew/include/QtCore/qforeach.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/buffer.h:
 
@@ -6935,6 +6865,8 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgIconPluginConfig.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/synth_three_way.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iter_move.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/stdio.h:
 
@@ -7050,8 +6982,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/include/QtCore/qcompare_impl.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake:
-
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qbrush.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/ranges_copy_n.h:
@@ -7106,8 +7036,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/lexicographical_compare_three_way.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/inplace_merge.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/time.h:
@@ -7142,9 +7070,9 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/fill_n.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/fill.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/size.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/fill.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qglobal.h:
 
@@ -7288,8 +7216,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__debug_utils/sanitizers.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeTestCXXCompiler.cmake:
-
 /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsTargets-release.cmake:
@@ -7305,8 +7231,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /opt/homebrew/include/QtCore/qassert.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/compare:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeTestCompilerCommon.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/equal_range.h:
 
@@ -7390,11 +7314,19 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/error_functions.h:
+
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_nlink_t.h:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QTiffPluginTargets-release.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_element.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/erase_if_container.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/insert_iterator.h:
 
@@ -7436,12 +7368,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets-release.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/empty.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginConfig.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__random/uniform_int_distribution.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__bit/bit_cast.h:
@@ -7466,9 +7392,11 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/distance.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/concepts:
 
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginTargets-release.cmake:
+/opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake:
+
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginAdditionalTargetInfo.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/count.h:
 
@@ -7534,13 +7462,15 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:
 
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmargins.h:
+
+/opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-release.cmake:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_like_no_subrange.h:
 
 /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersionImpl.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/semiregular.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineSystem.cmake:
 
 /opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsConfigVersion.cmake:
 
@@ -7592,9 +7522,21 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/lib/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/concepts.h:
+
+/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-release.cmake:
+
+/opt/homebrew/lib/cmake/Qt6CorePrivate/Qt6CorePrivateVersionlessAliasTargets.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/insert_iterator.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__fwd/functional.h:
 
 /opt/homebrew/lib/cmake/Qt6CorePrivate/Qt6CorePrivateTargets.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/logarithms.h:
 
 /opt/homebrew/lib/cmake/Qt6CorePrivate/Qt6CorePrivateConfig.cmake:
 
@@ -7605,8 +7547,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qnamespace.h:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginTargets-release.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeSystem.cmake.in:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginConfig.cmake:
 
@@ -7631,6 +7571,8 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/rotate.h:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets.cmake:
+
+/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets-release.cmake:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckIncludeFileCXX.cmake:
 
@@ -7676,12 +7618,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/concepts.h:
-
-/opt/homebrew/lib/cmake/Qt6CorePrivate/Qt6CorePrivateVersionlessAliasTargets.cmake:
-
-/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginTargets-release.cmake:
-
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinCalendarPermissionPluginDependencies.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_size_t.h:
@@ -7711,6 +7647,10 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__chrono/file_clock.h:
 
 /opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_lock_free.h:
+
+/opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/iterator:
 
@@ -7814,6 +7754,12 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/cmake/Qt6/QtFeatureCommon.cmake:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qrect.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/rounding_functions.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/type_identity.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/cmake/Qt6/FindWrapAtomic.cmake:
@@ -7840,6 +7786,10 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/cmake/Qt6/QtPublicSbomAttributionHelpers.cmake:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_indices.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h:
+
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h:
@@ -7852,15 +7802,11 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompilerId.cmake:
-
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QICOPluginAdditionalTargetInfo.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/qcheckbox.h:
 
@@ -7879,6 +7825,8 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/QVBoxLayout:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/QLineEdit:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h:
 
@@ -7904,6 +7852,12 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qfontvariableaxis.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qcolor.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/search.h:
 
 /opt/homebrew/include/QtCore/qstringview.h:
@@ -7913,6 +7867,8 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qaction.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/istreambuf_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/projected.h:
 
@@ -7934,11 +7890,11 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtversion.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/align.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/perfect_forward.h:
-
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/bin/cmake:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qttranslation.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtresource.h:
 
@@ -7949,8 +7905,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstdlib:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCXXCompiler.cmake.in:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtnoop.h:
 
@@ -8030,6 +7984,12 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstring.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/tag_types.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/alignment_of.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/front_insert_iterator.h:
+
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qstdlibdetection.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
@@ -8048,11 +8008,11 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qset.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/rounding_functions.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/max_element.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_const_ref.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qrect.h:
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_base_of.h:
 
@@ -8092,10 +8052,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmath.h:
 
-/opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets-release.cmake:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmargins.h:
-
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qmalloc.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/string.h:
@@ -8108,15 +8064,25 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qline.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin-Determine-CXX.cmake:
-
 /opt/homebrew/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiterator.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/fill.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/cstdio:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/segmented_iterator.h:
+
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/make_signed.h:
+
+/opt/homebrew/lib/cmake/Qt6/QtInstallPaths.cmake:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qhash.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h:
 
@@ -8142,7 +8108,17 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__bit/invert_if.h:
+
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h:
+
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h:
+
+/opt/homebrew/lib/cmake/Qt6WidgetsPrivate/Qt6WidgetsPrivateDependencies.cmake:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qconfig.h:
 
@@ -8188,9 +8164,11 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q23utility.h:
 
-/opt/homebrew/include/QtCore/qobjectdefs_impl.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hypot.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20utility.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/temporary_buffer.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/hyperbolic_functions.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstring:
 
@@ -8204,127 +8182,55 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Linker/Apple-AppleClang-CXX.cmake:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin-Initialize.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/Availability.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake:
+/opt/homebrew/include/QtCore/q20type_traits.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/MacroAddFileDependencies.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/contention_t.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qswap.h:
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin.cmake:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/FeatureTesting.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/none_of.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_types/_nl_item.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/atomic_lock_free.h:
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-Clang.cmake:
 
-/opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake:
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake:
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_key_t.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake:
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets-release.cmake:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/GNUInstallDirs.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/concepts.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Linker/AppleClang-CXX.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/all_of.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QPdfPluginTargets.cmake:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindVulkan.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindThreads.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindPackageMessage.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/in_out_result.h:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindOpenGL.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/bin/cmake:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qttranslation.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ranges/view_interface.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/prev.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tuple/tuple_indices.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/concepts:
-
-/opt/homebrew/lib/cmake/Qt6DBusTools/Qt6DBusToolsTargets.cmake:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMacHeifPluginAdditionalTargetInfo.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qspan.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake:
-
-/opt/homebrew/lib/QtWidgets.framework/Headers/QVBoxLayout:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QGifPluginTargets.cmake:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/GNU.cmake:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/format_parse_context.h:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/make_projected.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__chrono/duration.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake:
-
-/opt/homebrew/lib/cmake/Qt6WidgetsPrivate/Qt6WidgetsPrivateDependencies.cmake:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h:
 
 /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsAdditionalTargetInfo.cmake:
 
@@ -8336,14 +8242,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeSystemSpecificInformation.cmake:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtWidgets.framework/Versions/A/Headers/QLineEdit:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake:
-
-/opt/homebrew/include/QtGui/qcursor.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake:
-
 /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake:
@@ -8352,31 +8250,9 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeLanguageInformation.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unique.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_void.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/can_extract_key.h:
-
-/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinContactsPermissionPluginTargets-release.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__math/abs.h:
 
 /Users/xgzc/ArknightsCalc/utils.cpp:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qcolor.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_blksize_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/utility:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinLocationPermissionPluginDependencies.cmake:
 
@@ -8406,14 +8282,6 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsDependencies.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/concepts.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_key_t.h:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiTargets-release.cmake:
-
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/initializer_list:
@@ -8428,19 +8296,7 @@ ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp:
 
 ArknightsCalc_autogen/moc_predefs.h:
 
-/opt/homebrew/include/QtCore/qlist.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
-
-/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake:
-
 /Users/xgzc/ArknightsCalc/buff.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__utility/forward_like.h:
 
@@ -8546,8 +8402,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_mach_port_t.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeUnixFindMake.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/arm/endian.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_intptr_t.h:
@@ -8561,6 +8415,8 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__fwd/memory.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__math/roots.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/projected.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_int16_t.h:
 
@@ -8623,6 +8479,8 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_errno_t.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qspan.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_clock_t.h:
 
@@ -8688,8 +8546,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/wctype.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/wchar.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__ios/fpos.h:
@@ -8697,6 +8553,10 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cstddef:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/vector:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_blksize_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/utility:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_pointer.h:
 
@@ -8718,9 +8578,7 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/string_view:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/string.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__compare/ordering.h:
 
@@ -8778,12 +8636,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/math.h:
 
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCXXCompilerABI.cpp:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/unique_ptr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/map:
@@ -8793,12 +8645,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/locale:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_fd_def.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/roots.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__system_error/system_error.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/functional:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/ranges_construct_at.h:
 
@@ -8826,10 +8672,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/optional:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-Clang.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__math/min_max.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/lazy.h:
@@ -8843,12 +8685,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/cstdlib:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/segmented_iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/fill.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/cstdio:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/cstdarg:
 
@@ -8881,12 +8717,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/algorithm:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__verbose_abort:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/make_signed.h:
-
-/opt/homebrew/lib/cmake/Qt6/QtInstallPaths.cmake:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qhash.h:
 
 /opt/homebrew/include/QtCore/qfloat16.h:
 
@@ -8926,6 +8756,14 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/noexcept_move_assign_container.h:
 
+/opt/homebrew/include/QtCore/qlist.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_pthread/_pthread_once_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_reference.h:
+
+/opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinMicrophonePermissionPluginDependencies.cmake:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/conjunction.h:
@@ -8948,10 +8786,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_cvref.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/logarithms.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_const.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__mutex/once_flag.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/regular.h:
@@ -8972,13 +8806,15 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/machine/_types.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake:
-
 /opt/homebrew/lib/cmake/Qt6DBus/Qt6DBusConfig.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__fwd/bit_reference.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__random/is_valid.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/can_extract_key.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_void.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_unsigned_integer.h:
 
@@ -8993,10 +8829,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_union.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_trivially_destructible.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/AvailabilityInternalLegacy.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/time.h:
 
@@ -9068,6 +8900,8 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/set_difference.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/is_transparent.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__utility/declval.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_aggregate.h:
@@ -9119,10 +8953,6 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/transform.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__numeric/adjacent_difference.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/fdim.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_constant_evaluated.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fd_isset.h:
 
@@ -9176,6 +9006,8 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_arithmetic.h:
 
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake:
+
 /opt/homebrew/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsConfigVersion.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_allocator.h:
@@ -9197,6 +9029,8 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/unwrap_range.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/min.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/desugars_to.h:
 
@@ -9222,23 +9056,17 @@ CMakeFiles/4.0.3/CMakeSystem.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/copy_cv.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unique.h:
+
 CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__mutex/tag_types.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/front_insert_iterator.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/alignment_of.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/add_volatile.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp_ref_type.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_stdlib.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake:
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20functional.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/add_cv.h:
 
@@ -9314,8 +9142,6 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/minmax_element.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/iota.h:
 
 /opt/homebrew/lib/cmake/Qt6Gui/Qt6QCocoaIntegrationPluginConfig.cmake:
@@ -9360,19 +9186,9 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__numeric/exclusive_scan.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeFindBinUtils.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/upper_bound.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/move_sentinel.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/sample.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/all_of.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/cmake/Qt6/QtPublicSbomOpsHelpers.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
 
@@ -9391,12 +9207,6 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/remove_extent.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/to_gcc_order.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/unwrap_iter.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20functional.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__mutex/lock_guard.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/all_of.h:
 
@@ -9488,6 +9298,10 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/derived_from.h:
 
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/rank.h:
 
 /opt/homebrew/include/QtCore/qtypes.h:
@@ -9548,13 +9362,19 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/allocator.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckCompilerFlag.cmake:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/access.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/operations.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/unique_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__locale:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h:
 
@@ -9563,6 +9383,20 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckLibraryExists.cmake:
+
+/opt/homebrew/lib/QtWidgets.framework/Headers/QVBoxLayout:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/iter_swap.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/has_virtual_destructor.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindThreads.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp_ref_type.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/_stdlib.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__utility/empty.h:
 
@@ -9602,6 +9436,10 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/convertible_to.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/AvailabilityInternalLegacy.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/modulo.h:
+
 /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__utility/is_pointer_in_range.h:
@@ -9621,6 +9459,8 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/binary_function.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__concepts/different_from.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/auto_ptr.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/is_sorted.h:
 
@@ -9647,6 +9487,10 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__format/unicode.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__ranges/subrange.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/invoke.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/traits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__numeric/transform_inclusive_scan.h:
 
@@ -9716,13 +9560,7 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/is_transparent.h:
 
-/opt/homebrew/include/QtCore/qtcoreexports.h:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCompilerIdDetection.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/abs.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/rotate_copy.h:
 
@@ -9734,13 +9572,11 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/copy_if.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/traits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/invoke.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/swappable.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/iterator_traits.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/MacroAddFileDependencies.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
 
@@ -9748,7 +9584,11 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/binary_negate.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/set:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/min_max.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__format/enable_insertable.h:
 
@@ -9774,9 +9614,17 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/binary_search.h:
 
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/FindPackageMessage.cmake:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__assertion_handler:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__ranges/enable_borrowed_range.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qswap.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qtypes.h:
 
@@ -9812,6 +9660,8 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__exception/exception.h:
 
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin-Initialize.cmake:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/pstl.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/xlocale/_time.h:
@@ -9834,9 +9684,11 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__configuration/platform.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ostream_iterator.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/add_lvalue_reference.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/readable_traits.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__iterator/prev.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/generate_n.h:
 
@@ -9902,11 +9754,9 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/raw_storage_iterator.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/exponential_functions.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/count.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/inverse_hyperbolic_functions.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__exception/exception_ptr.h:
 
@@ -9914,9 +9764,15 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__ranges/empty.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__numeric/transform_reduce.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__numeric/transform_reduce.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_traits.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__mbstate_t.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__chrono/duration.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__cstddef/size_t.h:
 
@@ -9950,7 +9806,13 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__bit/blsr.h:
 
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/GNUInstallDirs.cmake:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/fence.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/cctype:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/next.h:
 
 /Library/Developer/CommandLineTools/usr/lib/clang/17/include/__stdarg_va_arg.h:
 
@@ -9963,8 +9825,6 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/runetype.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/constructible.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/unary_negate.h:
 
@@ -9980,14 +9840,6 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__numeric/accumulate.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/Availability.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Darwin.cmake:
-
-/opt/homebrew/include/QtCore/q20type_traits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/contention_t.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/atomic_init.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_int16_t.h:
@@ -9997,6 +9849,12 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/ranges_copy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/predicate.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdlib.h:
+
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Clang.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qrgb.h:
 
@@ -10018,7 +9876,7 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /opt/homebrew/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsConfigVersion.cmake:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompiler.cmake:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/unreachable_sentinel.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/atomic_base.h:
 
@@ -10062,6 +9920,10 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/for_each_n.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/boyer_moore_searcher.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q17memory.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/xlocale.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/three_way_comp_ref_type.h:
@@ -10091,8 +9953,6 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 /opt/homebrew/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfigVersionImpl.cmake:
 
 /opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h:
 
@@ -10142,6 +10002,8 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__bit_reference:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_defaults.h:
+
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckCXXCompilerFlag.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/ranges_fill_n.h:
@@ -10190,23 +10052,21 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /opt/homebrew/lib/cmake/Qt6GuiPrivate/Qt6GuiPrivateVersionlessAliasTargets.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_iterator.h:
+/opt/homebrew/include/QtCore/qtcoreexports.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginConfig.cmake:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/concepts.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_destructible.h:
+
+/opt/homebrew/include/QtCore/qobjectdefs_impl.h:
+
+/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q20utility.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/inplace_merge.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/partial_sort.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/class_or_enum.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__locale:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/mismatch.h:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6QDarwinBluetoothPermissionPluginDependencies.cmake:
 
@@ -10242,6 +10102,8 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/__xlocale.h:
 
+/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__format/format_string.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__type_traits/is_const.h:
@@ -10276,10 +10138,6 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/pop_heap.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/wrap_iter.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__system_error/error_code.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/addressof.h:
 
 /opt/homebrew/lib/cmake/Qt6WidgetsPrivate/Qt6WidgetsPrivateAdditionalTargetInfo.cmake:
@@ -10294,31 +10152,23 @@ CMakeFiles/4.0.3/CMakeCXXCompiler.cmake:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qchar.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/stdlib.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/reverse_access.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Clang.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__utility/piecewise_construct.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/copy_cvref.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/is_permutation.h:
 
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/copysign.h:
+
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/push_heap.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/AvailabilityInternal.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__bit/invert_if.h:
-
-/opt/homebrew/lib/cmake/Qt6Gui/Qt6QOffscreenIntegrationPluginTargets.cmake:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/find_end.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__compare/synth_three_way.h:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocate_at_least.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/shuffle.h:
 
@@ -10343,10 +10193,6 @@ ArknightsCalc_autogen/mocs_compilation.cpp:
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__concepts/boolean_testable.h:
-
-/opt/homebrew/Cellar/qt/6.9.1/lib/QtCore.framework/Versions/A/Headers/q17memory.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/boyer_moore_searcher.h:
 
 /opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake:
 
@@ -10382,6 +10228,10 @@ ArknightsCalc_autogen/mocs_compilation.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/minmax.h:
 
+/opt/homebrew/lib/cmake/Qt6Gui/Qt6QSvgPluginTargets-release.cmake:
+
+/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/make_projected.h:
+
 /opt/homebrew/include/QtCore/qarraydatapointer.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/numeric:
@@ -10403,8 +10253,6 @@ ArknightsCalc_autogen/mocs_compilation.cpp:
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/libkern/arm/_OSByteOrder.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__atomic/aliases.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/copy.h:
 
@@ -10452,35 +10300,15 @@ ArknightsCalc_autogen/mocs_compilation.cpp:
 
 /opt/homebrew/Cellar/qt/6.9.1/lib/QtGui.framework/Versions/A/Headers/qpen.h:
 
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/swap_ranges.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/set_symmetric_difference.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__memory/allocator_arg_t.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/operations.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/arm/_endian.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__type_traits/is_always_bitcastable.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Linker/AppleClang-CXX.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/incrementable_traits.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/max_element.h:
-
 /opt/homebrew/include/QtWidgets/qsizepolicy.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__utility/forward.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/none_of.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_types/_nl_item.h:
-
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__atomic/kill_dependency.h:
 
@@ -10506,10 +10334,6 @@ ArknightsCalc_autogen/mocs_compilation.cpp:
 
 /opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CheckCXXSourceCompiles.cmake:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/Internal/CheckCompilerFlag.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__memory/allocator.h:
-
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/_bounds.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__functional/bind.h:
@@ -10530,11 +10354,7 @@ ArknightsCalc_autogen/mocs_compilation.cpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/c++/v1/__algorithm/for_each_segment.h:
 
-/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__math/error_functions.h:
-
-/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/is_sorted_until.h:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__iterator/ranges_iterator_traits.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/wctype.h:
 

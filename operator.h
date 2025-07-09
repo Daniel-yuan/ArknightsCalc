@@ -28,4 +28,18 @@ public:
     DamagePacket skill2(Buff) override;
 };
 
+class Mlynar : public Operator {
+private:
+    static constexpr int BASE_ATTACK = 445;
+    static constexpr float BASE_ATTACK_TIME = 1.2;
+    static constexpr int SKILL3_TIME = 2000000;
+    static constexpr float SKILL3_ATTACK_BUFF_INNER = 4.0;
+    static constexpr float SKILL3_ATTACK_INDEPENDENT_BUFF = 1.8;
+    static constexpr float LIB_X_ATTACK_SPEED_BUFF = 0.07;
+    static constexpr float TALENT_ATTACK_BUFF = 1.23;
+public:
+    Mlynar();
+    DamagePacket skill3(Buff) override;
+};
+
 #endif // OPERATOR_H

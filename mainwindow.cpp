@@ -15,8 +15,9 @@ MainWindow::MainWindow(QWidget *parent)
         j += 1;
         if (j == 3) i += 1, j = 0;
     }
-    DamagePacket t = Typhon().skill2(Buff::DEFAULT_BUFF);
-    test->addWidget(new QCheckBox(QString::number(t.get_dps())), i, j);
+    DamagePacket t_typhon = Typhon().skill2(Buff::DEFAULT_BUFF);
+    DamagePacket t_mlynar = Mlynar().skill3(Buff::DEFAULT_BUFF);
+    test->addWidget(new QCheckBox(QString::number(t_mlynar.get_dps())), i, j);
 }
 
 MainWindow::~MainWindow()
