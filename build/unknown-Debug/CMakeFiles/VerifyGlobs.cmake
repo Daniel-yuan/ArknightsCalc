@@ -41,6 +41,8 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/xgzc/ArknightsCalc/*.cpp")
 set(OLD_GLOB
   "/Users/xgzc/ArknightsCalc/buff.cpp"
+  "/Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp"
+  "/Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/mocs_compilation.cpp"
   "/Users/xgzc/ArknightsCalc/build/unknown-Debug/CMakeFiles/4.0.3/CompilerIdCXX/CMakeCXXCompilerId.cpp"
   "/Users/xgzc/ArknightsCalc/build/unknown-Debug/CMakeFiles/4.0.3/CompilerIdCXX/apple-sdk.cpp"
   "/Users/xgzc/ArknightsCalc/calc.cpp"
@@ -68,6 +70,8 @@ endif()
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "/Users/xgzc/ArknightsCalc/*.h")
 set(OLD_GLOB
   "/Users/xgzc/ArknightsCalc/buff.h"
+  "/Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/include/ui_mainwindow.h"
+  "/Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/moc_predefs.h"
   "/Users/xgzc/ArknightsCalc/calc.h"
   "/Users/xgzc/ArknightsCalc/damagepacket.h"
   "/Users/xgzc/ArknightsCalc/mainwindow.h"
