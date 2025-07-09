@@ -1,5 +1,5 @@
-/Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp: /Users/yuanxiangtao/QTtest/ArknightsCalc/mainwindow.h \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/moc_predefs.h \
+/Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp: /Users/xgzc/ArknightsCalc/mainwindow.h \
+  /Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/moc_predefs.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/Availability.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/AvailabilityInternal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.5.sdk/usr/include/AvailabilityInternalLegacy.h \

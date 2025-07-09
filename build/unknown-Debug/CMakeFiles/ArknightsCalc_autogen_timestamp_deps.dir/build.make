@@ -53,10 +53,10 @@ RM = /opt/homebrew/Cellar/cmake/4.0.3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/yuanxiangtao/QTtest/ArknightsCalc
+CMAKE_SOURCE_DIR = /Users/xgzc/ArknightsCalc
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug
+CMAKE_BINARY_DIR = /Users/xgzc/ArknightsCalc/build/unknown-Debug
 
 # Utility rule file for ArknightsCalc_autogen_timestamp_deps.
 
@@ -81,6 +81,6 @@ CMakeFiles/ArknightsCalc_autogen_timestamp_deps.dir/clean:
 .PHONY : CMakeFiles/ArknightsCalc_autogen_timestamp_deps.dir/clean
 
 CMakeFiles/ArknightsCalc_autogen_timestamp_deps.dir/depend:
-	cd /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/yuanxiangtao/QTtest/ArknightsCalc /Users/yuanxiangtao/QTtest/ArknightsCalc /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/CMakeFiles/ArknightsCalc_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /Users/xgzc/ArknightsCalc/build/unknown-Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/xgzc/ArknightsCalc /Users/xgzc/ArknightsCalc /Users/xgzc/ArknightsCalc/build/unknown-Debug /Users/xgzc/ArknightsCalc/build/unknown-Debug /Users/xgzc/ArknightsCalc/build/unknown-Debug/CMakeFiles/ArknightsCalc_autogen_timestamp_deps.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/ArknightsCalc_autogen_timestamp_deps.dir/depend
 

@@ -1,7 +1,7 @@
 CMakeFiles/ArknightsCalc.dir/ArknightsCalc_autogen/mocs_compilation.cpp.o: \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/mocs_compilation.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/EWIEGA46WW/../../../../mainwindow.h \
+  /Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/mocs_compilation.cpp \
+  /Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/EWIEGA46WW/moc_mainwindow.cpp \
+  /Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/EWIEGA46WW/../../../../mainwindow.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /opt/homebrew/include/QtWidgets/qtwidgetsglobal.h \

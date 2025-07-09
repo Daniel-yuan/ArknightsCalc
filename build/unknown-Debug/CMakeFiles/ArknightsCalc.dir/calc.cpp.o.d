@@ -1,3 +1,2 @@
 CMakeFiles/ArknightsCalc.dir/calc.cpp.o: \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/calc.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/calc.h
+  /Users/xgzc/ArknightsCalc/calc.cpp /Users/xgzc/ArknightsCalc/calc.h

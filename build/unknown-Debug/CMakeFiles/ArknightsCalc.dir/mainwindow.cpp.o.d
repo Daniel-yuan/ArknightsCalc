@@ -1,6 +1,6 @@
 CMakeFiles/ArknightsCalc.dir/mainwindow.cpp.o: \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/mainwindow.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/mainwindow.h \
+  /Users/xgzc/ArknightsCalc/mainwindow.cpp \
+  /Users/xgzc/ArknightsCalc/mainwindow.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /opt/homebrew/include/QtWidgets/qtwidgetsglobal.h \
@@ -987,7 +987,7 @@ CMakeFiles/ArknightsCalc.dir/mainwindow.cpp.o: \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QCheckBox \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qcheckbox.h \
   /opt/homebrew/include/QtWidgets/qabstractbutton.h \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/include/./ui_mainwindow.h \
+  /Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/include/./ui_mainwindow.h \
   /opt/homebrew/include/QtCore/QVariant \
   /opt/homebrew/include/QtWidgets/QApplication \
   /opt/homebrew/include/QtWidgets/qapplication.h \
@@ -1014,8 +1014,8 @@ CMakeFiles/ArknightsCalc.dir/mainwindow.cpp.o: \
   /opt/homebrew/include/QtWidgets/qstatusbar.h \
   /opt/homebrew/include/QtWidgets/QTabWidget \
   /opt/homebrew/include/QtWidgets/QWidget \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/operator.h \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/damagepacket.h \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/buff.h \
+  /Users/xgzc/ArknightsCalc/operator.h \
+  /Users/xgzc/ArknightsCalc/damagepacket.h \
+  /Users/xgzc/ArknightsCalc/buff.h \
   /opt/homebrew/lib/QtCore.framework/Headers/QDebug \
   /opt/homebrew/lib/QtCore.framework/Headers/qdebug.h

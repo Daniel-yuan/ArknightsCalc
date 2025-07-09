@@ -1,6 +1,5 @@
 CMakeFiles/ArknightsCalc.dir/utils.cpp.o: \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/utils.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/utils.h \
+  /Users/xgzc/ArknightsCalc/utils.cpp /Users/xgzc/ArknightsCalc/utils.h \
   /opt/homebrew/lib/QtCore.framework/Headers/QtGlobal \
   /opt/homebrew/lib/QtCore.framework/Headers/qglobal.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/type_traits \

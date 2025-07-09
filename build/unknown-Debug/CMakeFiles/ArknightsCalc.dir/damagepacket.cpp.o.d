@@ -1,3 +1,3 @@
 CMakeFiles/ArknightsCalc.dir/damagepacket.cpp.o: \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/damagepacket.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/damagepacket.h
+  /Users/xgzc/ArknightsCalc/damagepacket.cpp \
+  /Users/xgzc/ArknightsCalc/damagepacket.h

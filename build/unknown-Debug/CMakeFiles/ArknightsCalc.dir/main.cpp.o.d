@@ -1,6 +1,6 @@
 CMakeFiles/ArknightsCalc.dir/main.cpp.o: \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/main.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/mainwindow.h \
+  /Users/xgzc/ArknightsCalc/main.cpp \
+  /Users/xgzc/ArknightsCalc/mainwindow.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /opt/homebrew/include/QtWidgets/qtwidgetsglobal.h \

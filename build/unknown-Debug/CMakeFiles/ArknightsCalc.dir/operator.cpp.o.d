@@ -1,8 +1,8 @@
 CMakeFiles/ArknightsCalc.dir/operator.cpp.o: \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/operator.cpp \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/operator.h \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/damagepacket.h \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/buff.h \
+  /Users/xgzc/ArknightsCalc/operator.cpp \
+  /Users/xgzc/ArknightsCalc/operator.h \
+  /Users/xgzc/ArknightsCalc/damagepacket.h \
+  /Users/xgzc/ArknightsCalc/buff.h \
   /opt/homebrew/lib/QtCore.framework/Headers/QDebug \
   /opt/homebrew/lib/QtCore.framework/Headers/qdebug.h \
   /opt/homebrew/include/QtCore/qcompare.h \
@@ -924,6 +924,6 @@ CMakeFiles/ArknightsCalc.dir/operator.cpp.o: \
   /opt/homebrew/include/QtCore/qset.h \
   /opt/homebrew/include/QtCore/qhash.h \
   /opt/homebrew/include/QtCore/qvarlengtharray.h \
-  /Users/yuanxiangtao/QTtest/ArknightsCalc/utils.h \
+  /Users/xgzc/ArknightsCalc/utils.h \
   /opt/homebrew/lib/QtCore.framework/Headers/QtGlobal \
   /opt/homebrew/lib/QtCore.framework/Headers/qglobal.h
