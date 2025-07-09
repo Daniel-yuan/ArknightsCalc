@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_ArknightsCalc_FILE /Users/xgzc/ArknightsCalc/build/unknown-Debug/ArknightsCalc.app/Contents/MacOS/ArknightsCalc)
-set(__QT_DEPLOY_TARGET_ArknightsCalc_TYPE EXECUTABLE)
