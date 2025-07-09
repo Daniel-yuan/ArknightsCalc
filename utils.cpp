@@ -8,3 +8,5 @@ int get_hits(float attack_time, float attack_speed_buff, int total_time) {
     int hits = total_frame / attack_frame_per_hit + 1;
     return hits;
 }
+
+
