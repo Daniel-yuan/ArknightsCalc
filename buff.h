@@ -11,6 +11,9 @@ public:
     static const Buff DEFAULT_BUFF;
     Buff(float, float, float);
     Buff operator + (const Buff &rhs);
+    float get_attack_buff_inner();
+    float get_attack_buff_outer();
+    float get_attack_speed_buff();
 };
 
 #endif // BUFF_H

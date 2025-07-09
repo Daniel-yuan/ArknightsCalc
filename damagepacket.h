@@ -10,12 +10,14 @@ class DamagePacket
 {
 private:
     int hits;
-    int value_per_hit;
+    float value_per_hit;
     float probability_per_hit;
+    int total_time;
     DamageType damage_type;
 public:
     static const DamagePacket DEFAULT_DAMAGE_PACKET;
-    DamagePacket(int, int, float, DamageType);
+    DamagePacket(int hits, float value_per_hit, float probability_per_hit, int total_time, DamageType);
+    float get_dps();
 };
 
 #endif // DAMAGEPACKET_H

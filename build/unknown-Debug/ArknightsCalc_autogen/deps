@@ -727,6 +727,8 @@ ArknightsCalc_autogen/timestamp: \
 	/Library/Developer/CommandLineTools/usr/lib/clang/17/include/limits.h \
 	/Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdarg.h \
 	/Users/yuanxiangtao/QTtest/ArknightsCalc/CMakeLists.txt \
+	/Users/yuanxiangtao/QTtest/ArknightsCalc/buff.cpp \
+	/Users/yuanxiangtao/QTtest/ArknightsCalc/buff.h \
 	/Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/.qtc/package-manager/auto-setup.cmake \
 	/Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/ArknightsCalc_autogen/moc_predefs.h \
 	/Users/yuanxiangtao/QTtest/ArknightsCalc/build/unknown-Debug/CMakeFiles/4.0.3/CMakeCXXCompiler.cmake \
@@ -738,6 +740,10 @@ ArknightsCalc_autogen/timestamp: \
 	/Users/yuanxiangtao/QTtest/ArknightsCalc/main.cpp \
 	/Users/yuanxiangtao/QTtest/ArknightsCalc/mainwindow.cpp \
 	/Users/yuanxiangtao/QTtest/ArknightsCalc/mainwindow.h \
+	/Users/yuanxiangtao/QTtest/ArknightsCalc/operator.cpp \
+	/Users/yuanxiangtao/QTtest/ArknightsCalc/operator.h \
+	/Users/yuanxiangtao/QTtest/ArknightsCalc/utils.cpp \
+	/Users/yuanxiangtao/QTtest/ArknightsCalc/utils.h \
 	/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCXXInformation.cmake \
 	/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
 	/opt/homebrew/Cellar/cmake/4.0.3/share/cmake/Modules/CMakeCommonLanguageInclude.cmake \

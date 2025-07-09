@@ -7,6 +7,16 @@ Buff Buff::operator + (const Buff &rhs) {
     return Buff(
         this->attack_buff_inner + rhs.attack_buff_inner,
         this->attack_buff_outer + rhs.attack_buff_outer,
-        this->attack_speed_buff + rhs.attack_speed_buff,
+        this->attack_speed_buff + rhs.attack_speed_buff
     );
+}
+
+float Buff::get_attack_buff_inner() {
+    return this->attack_buff_inner;
+}
+float Buff::get_attack_buff_outer() {
+    return this->attack_buff_outer;
+}
+float Buff::get_attack_speed_buff() {
+    return this->attack_speed_buff;
 }

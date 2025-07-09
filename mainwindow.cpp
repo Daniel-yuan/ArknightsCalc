@@ -1,5 +1,6 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
+#include "operator.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -14,6 +15,8 @@ MainWindow::MainWindow(QWidget *parent)
         j += 1;
         if (j == 3) i += 1, j = 0;
     }
+    DamagePacket t = Typhon().skill2(Buff::DEFAULT_BUFF);
+    test->addWidget(new QCheckBox(QString::number(t.get_dps())), i, j);
 }
 
 MainWindow::~MainWindow()
