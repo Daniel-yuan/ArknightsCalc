@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+ce73a6557232547be5cb522e93623727 ArknightsCalc_autogen/timestamp
+efe1061ddf8e79bebe22b1684330f712 CMakeFiles/ArknightsCalc_autogen
