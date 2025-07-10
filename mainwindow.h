@@ -6,6 +6,8 @@
 #include <QVBoxLayout>
 #include <QCheckBox>
 
+const QString COLLECTION_PATH = "/Users/yuanxiangtao/QTtest/ArknightsCalc/collection.json";
+
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class MainWindow;
@@ -22,5 +24,6 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    void collection_init();
 };
 #endif // MAINWINDOW_H

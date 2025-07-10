@@ -18,7 +18,9 @@ DamagePacket Operator::skill3(Buff buff) {
 
 Typhon::Typhon() : Operator(Typhon::BASE_ATTACK, Typhon::BASE_ATTACK_TIME) {}
 DamagePacket Typhon::skill2(Buff buff) {
-    int hits = get_hits(this->base_attack_time, buff.get_attack_buff_inner(), this->SKILL2_TIME);
-    float actual_attack = (1 + buff.get_attack_buff_outer()) * this->base_attack * (1 + buff.get_attack_buff_inner() + this->SKILL2_ATTACK_BUFF_INNER);
+    float hits = get_hits(this->base_attack_time, buff.get_attack_buff_inner(), this->SKILL2_TIME);
+    float actual_attack = (1 + buff.get_attack_buff_outer())
+                          * this->base_attack
+                          * (1 + buff.get_attack_buff_inner() + this->SKILL2_ATTACK_BUFF_INNER);
     return DamagePacket(hits, actual_attack, 1.0, this->SKILL2_TIME, DamageType::kPhysicalDamage);
 }
