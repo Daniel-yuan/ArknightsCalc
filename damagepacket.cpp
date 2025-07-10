@@ -6,3 +6,11 @@ const DamagePacket DamagePacket::DEFAULT_DAMAGE_PACKET(0, 0, 0, 0, DamageType::k
 float DamagePacket::get_dps() {
     return this->hits * this->value_per_hit / this->total_time;
 }
+
+float DamagePacket::get_dph() {
+    return this->value_per_hit;
+}
+
+int DamagePacket::get_hits() {
+    return this->hits;
+}
