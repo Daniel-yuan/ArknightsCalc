@@ -28,7 +28,7 @@ Mlynar::Mlynar() : Operator(Mlynar::BASE_ATTACK, Mlynar::BASE_ATTACK_TIME) {}
 DamagePacket Mlynar::skill3(Buff buff) {
     int hits = get_hits(this->base_attack_time, this->LIB_X_ATTACK_SPEED_BUFF + buff.get_attack_speed_buff(), this->SKILL3_TIME);
     float actual_physical_attack = (1 + buff.get_attack_buff_outer()) * this->base_attack * (1 + buff.get_attack_buff_inner() + this->SKILL3_ATTACK_BUFF_INNER)
-                                * this->SKILL3_ATTACK_INDEPENDENT_BUFF * this->TALENT_ATTACK_BUFF;
+                                   * this->SKILL3_ATTACK_INDEPENDENT_BUFF * this->TALENT_ATTACK_BUFF;
     // float actual_true_attack = actual_physical_attack * 0.12;
     return DamagePacket(hits, actual_physical_attack, 1.0, this->SKILL3_TIME, DamageType::kPhysicalDamage);
 }

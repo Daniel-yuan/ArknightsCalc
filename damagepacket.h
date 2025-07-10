@@ -19,6 +19,7 @@ public:
     DamagePacket(int hits, float value_per_hit, float probability_per_hit, int total_time, DamageType);
     float get_dps();
     float get_dph();
+    int get_hits();
 };
 
 #endif // DAMAGEPACKET_H

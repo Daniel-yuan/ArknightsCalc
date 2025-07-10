@@ -10,3 +10,7 @@ float DamagePacket::get_dps() {
 float DamagePacket::get_dph() {
     return this->value_per_hit;
 }
+
+int DamagePacket::get_hits() {
+    return this->hits;
+}
