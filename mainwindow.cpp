@@ -1,42 +1,16 @@
 #include "mainwindow.h"
 #include "./ui_mainwindow.h"
 #include "operator.h"
-#include <QFile>
-#include <QJsonDocument>
-#include <QJsonObject>
-#include <QDebug>
-#include <QJsonArray>
-
-void MainWindow::collection_init() {
-    QFile file(COLLECTION_PATH);
-    if (!file.open(QIODevice::ReadOnly | QIODevice::Text)) {
-        qWarning() << "Cannot open file!";
-        qWarning() << file.errorString();
-        return;
-    }
-    QByteArray jsonData = file.readAll();
-    file.close();
-
-    QJsonParseError parseError;
-    QJsonDocument doc = QJsonDocument::fromJson(jsonData, &parseError);
-
-    QJsonArray jsonArray = doc.array();
-    for (const QJsonValue &value : jsonArray) {
-        if (value.isObject()) {
-            QJsonObject obj = value.toObject();
-            int nameValue = obj.value("name").toInt();
-            qDebug() << "name:" << nameValue;
-        }
-    }
-}
+#include "collectionpage.h"
+#include "damagepage.h"
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    this->collection_set = std::make_shared<CollectionSet>();
 
-    collection_init();
     auto test = ui->gridLayout;
     test->setAlignment(Qt::AlignTop);
     auto list = {"a"};
@@ -49,6 +23,14 @@ MainWindow::MainWindow(QWidget *parent)
     DamagePacket t_typhon = Typhon().skill2(Buff::DEFAULT_BUFF);
     DamagePacket t_mlynar = Mlynar().skill3(Buff::DEFAULT_BUFF);
     test->addWidget(new QCheckBox(QString::number(t_mlynar.get_dps())), i, j);
+
+    auto collection_page = new CollectionPage(this->collection_set);
+    auto damage_page = new DamagePage(this->collection_set);
+
+    ui->tabWidget->addTab(collection_page, "col");
+    ui->tabWidget->addTab(damage_page, "damage");
+
+    connect(collection_page, &CollectionPage::collection_set_changed, damage_page, &DamagePage::refresh_text_browser);
 }
 
 MainWindow::~MainWindow()

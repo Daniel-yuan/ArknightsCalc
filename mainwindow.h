@@ -5,8 +5,7 @@
 #include <QLineEdit>
 #include <QVBoxLayout>
 #include <QCheckBox>
-
-const QString COLLECTION_PATH = "/Users/yuanxiangtao/QTtest/ArknightsCalc/collection.json";
+#include "collectionset.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -24,6 +23,6 @@ public:
 
 private:
     Ui::MainWindow *ui;
-    void collection_init();
+    std::shared_ptr<CollectionSet> collection_set;
 };
 #endif // MAINWINDOW_H

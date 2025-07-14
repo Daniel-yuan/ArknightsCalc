@@ -19,6 +19,7 @@ Collection::Collection(const QJsonObject &obj) {
 Collection Collection::operator + (const Collection &rhs) const {
     Collection result = *this;
     result.name = "SumPacket";
+
     result.self_attack_buff_inner += rhs.self_attack_buff_inner;
     result.self_attack_buff_outer += rhs.self_attack_buff_outer;
     result.self_attack_speed_buff += rhs.self_attack_speed_buff;
@@ -40,4 +41,11 @@ Collection Collection::operator + (const Collection &rhs) const {
     result.opponent_spell_defense_buff += rhs.opponent_spell_defense_buff
         + result.opponent_spell_defense_buff * rhs.opponent_spell_defense_buff;
     return result;
+}
+
+QString Collection::get_name() const {
+    return this->name;
+}
+Buff Collection::get_buff() const {
+    return Buff(this->self_attack_buff_inner, this->self_attack_buff_outer, this->self_attack_speed_buff);
 }

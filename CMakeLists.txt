@@ -33,6 +33,9 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         utils.h
         utils.cpp
         collection.h collection.cpp
+        collectionpage.h collectionpage.cpp collectionpage.ui
+        collectionset.h collectionset.cpp
+        damagepage.h damagepage.cpp damagepage.ui
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET ArknightsCalc APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

@@ -5,6 +5,6 @@
 
 static constexpr int FRAME_PER_SECOND = 30;
 
-float get_hits(float attack_time, float attack_speed_buff, int total_time);
+int get_hits(float attack_time, float attack_speed_buff, int total_time);
 
 #endif // UTILS_H

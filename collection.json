@@ -1,3 +1,62 @@
-{
-	"test": "test"
-}
+[
+	{
+		"name": "橙味风暴",
+		"self_attack_buff_outer": 0.07
+	},
+	{
+		"name": "尖叫樱桃",
+		"self_attack_buff_outer": 0.08
+	},
+	{
+		"name": "皮特水果什锦",
+		"self_attack_buff_outer": 0.07
+	},
+	{
+		"name": "地形图"
+	},
+	{
+		"name": "神音海螺"
+	},
+	{
+		"name": "林间夜话"
+	},
+	{
+		"name": "教堂救济餐券"
+	},
+	{
+		"name": "解约协议",
+		"self_attack_buff_outer": 0.07
+	},
+	{
+		"name": "开裂的束缚带",
+		"opponent_attack_buff": -0.07
+	},
+	{
+		"name": "奇渊面具",
+		"opponent_attack_buff": -0.12
+	},
+	{
+		"name": "教母的信物",
+		"opponent_attack_buff": -0.17
+	},
+	{
+		"name": "残破合影",
+		"opponent_physical_defense_buff": -0.12
+	},
+	{
+		"name": "古乔治营养原浆",
+		"self_attack_buff_inner": 0.3
+	},
+	{
+		"name": "赶车夫的长鞭",
+		"self_physical_damage_boost_grouped": 0.25 
+	},
+	{
+		"name": "璀璨悲泣",
+		"self_spell_damage_boost_grouped": 0.4
+	},
+	{
+		"name": "轰鸣之手",
+		"self_attack_buff_inner": 1.5
+	}
+]
